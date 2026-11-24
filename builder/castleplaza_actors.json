@@ -1,0 +1,372 @@
+{
+ "BP_AISpawner_C_0": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 110811,
+  "xyz": [
+   5700.000037,
+   -9825.0,
+   1006.8001114990209
+  ]
+ },
+ "BP_AISpawner_C_1": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 110877,
+  "xyz": [
+   14050.000036503889,
+   900.0,
+   -193.19988850098161
+  ]
+ },
+ "BP_AISpawner_C_10": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 110969,
+  "xyz": [
+   3150.0,
+   -1200.0,
+   1000.0000871367163
+  ]
+ },
+ "BP_AISpawner_C_11": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111061,
+  "xyz": [
+   3000.0,
+   4350.0,
+   400.00012596484123
+  ]
+ },
+ "BP_AISpawner_C_12": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111153,
+  "xyz": [
+   3925.0,
+   4800.0,
+   -503.1998930185572
+  ]
+ },
+ "BP_AISpawner_C_13": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111245,
+  "xyz": [
+   9740.0,
+   5400.0,
+   -199.99990286328375
+  ]
+ },
+ "BP_AISpawner_C_2": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111311,
+  "xyz": [
+   4750.000037,
+   10050.0,
+   106.80010418847405
+  ]
+ },
+ "BP_AISpawner_C_3": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111377,
+  "xyz": [
+   -2149.999963,
+   7200.0,
+   106.80011944726317
+  ]
+ },
+ "BP_AISpawner_C_4": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111469,
+  "xyz": [
+   9150.000002617995,
+   -6150.0,
+   100.0001004472631
+  ]
+ },
+ "BP_AISpawner_C_5": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111561,
+  "xyz": [
+   3150.0,
+   -5550.0,
+   100.0001
+  ]
+ },
+ "BP_AISpawner_C_6": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111653,
+  "xyz": [
+   -4950.0,
+   0.0,
+   700.0001084472631
+  ]
+ },
+ "BP_AISpawner_C_7": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111745,
+  "xyz": [
+   -5400.0,
+   4050.0,
+   400.00008592968493
+  ]
+ },
+ "BP_AISpawner_C_8": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111837,
+  "xyz": [
+   1500.0,
+   3150.0,
+   1000.000086
+  ]
+ },
+ "BP_AISpawner_C_9": {
+  "comp": "SpawnVolume",
+  "cls": "BoxComponent",
+  "off": 111929,
+  "xyz": [
+   6300.0,
+   0.0,
+   696.8000974990209
+  ]
+ },
+ "BP_Onslaught_Castle_CastlePlaza_C_1": {
+  "comp": "DefaultSceneRoot",
+  "cls": "SceneComponent",
+  "off": 883297,
+  "xyz": [
+   150.0,
+   0.0,
+   3000.0
+  ]
+ },
+ "BP_Rift_Crystal_C_0": {
+  "comp": "Root",
+  "cls": "SceneComponent",
+  "off": 883440,
+  "xyz": [
+   150.0,
+   0.0,
+   95.0
+  ]
+ },
+ "BP_Rift_Platform_FishMarket_C_0": {
+  "comp": "RootComponent",
+  "cls": "SceneComponent",
+  "off": 883582,
+  "xyz": [
+   150.0,
+   0.0,
+   0.0
+  ]
+ },
+ "PlayerStart_1": {
+  "comp": "CollisionCapsule",
+  "cls": "CapsuleComponent",
+  "off": 134192,
+  "xyz": [
+   830.0,
+   -450.0,
+   167.00009482420865
+  ]
+ },
+ "PlayerStart_2": {
+  "comp": "CollisionCapsule",
+  "cls": "CapsuleComponent",
+  "off": 134226,
+  "xyz": [
+   830.0,
+   -200.0,
+   167.0001100829977
+  ]
+ },
+ "PlayerStart_3": {
+  "comp": "CollisionCapsule",
+  "cls": "CapsuleComponent",
+  "off": 134260,
+  "xyz": [
+   830.0,
+   150.0,
+   167.00012534178677
+  ]
+ },
+ "PlayerStart_4": {
+  "comp": "CollisionCapsule",
+  "cls": "CapsuleComponent",
+  "off": 134294,
+  "xyz": [
+   830.0,
+   400.0,
+   167.00012534178677
+  ]
+ },
+ "RSTPathPoint_0": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884336,
+  "xyz": [
+   -1645.0,
+   0.0,
+   9.999999747378752e-05
+  ]
+ },
+ "RSTPathPoint_1": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884370,
+  "xyz": [
+   150.0,
+   0.0,
+   150.0
+  ]
+ },
+ "RSTPathPoint_10": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884404,
+  "xyz": [
+   3140.0,
+   -25.0,
+   -149.99989581152596
+  ]
+ },
+ "RSTPathPoint_11": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884438,
+  "xyz": [
+   8070.0,
+   -25.0,
+   -299.99989600000004
+  ]
+ },
+ "RSTPathPoint_12": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884472,
+  "xyz": [
+   4440.0,
+   1250.0,
+   900.0000819296847
+  ]
+ },
+ "RSTPathPoint_13": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884506,
+  "xyz": [
+   4440.0,
+   -1545.0,
+   900.000082
+  ]
+ },
+ "RSTPathPoint_14": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884540,
+  "xyz": [
+   6935.0,
+   2985.0,
+   600.0000904472631
+  ]
+ },
+ "RSTPathPoint_15": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884574,
+  "xyz": [
+   4490.0,
+   -4745.0,
+   900.000082
+  ]
+ },
+ "RSTPathPoint_2": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884608,
+  "xyz": [
+   -2170.0,
+   -6340.0,
+   900.0000999999975
+  ]
+ },
+ "RSTPathPoint_3": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884642,
+  "xyz": [
+   -5055.0,
+   0.0,
+   600.0000999999975
+  ]
+ },
+ "RSTPathPoint_4": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884676,
+  "xyz": [
+   -3940.0,
+   4805.0,
+   755.0001084472631
+  ]
+ },
+ "RSTPathPoint_5": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884710,
+  "xyz": [
+   1155.0,
+   5825.0,
+   8.59296849284874e-05
+  ]
+ },
+ "RSTPathPoint_6": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884744,
+  "xyz": [
+   6040.0,
+   5355.0,
+   -599.9998750351588
+  ]
+ },
+ "RSTPathPoint_7": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884778,
+  "xyz": [
+   9765.0,
+   3985.0,
+   -299.9998886230519
+  ]
+ },
+ "RSTPathPoint_8": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884812,
+  "xyz": [
+   8895.0,
+   -6150.0,
+   0.00011144726312295461
+  ]
+ },
+ "RSTPathPoint_9": {
+  "comp": "SceneComp",
+  "cls": "SceneComponent",
+  "off": 884846,
+  "xyz": [
+   2070.0,
+   -4160.0,
+   2.000111447263123
+  ]
+ }
+}
