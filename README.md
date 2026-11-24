@@ -38,3 +38,7 @@ See [BUILDING.md](BUILDING.md).
 - [retoc](https://github.com/trumank/retoc) and [repak](https://github.com/trumank/repak) by trumank read and write the game's pak files.
 - [Recast](https://github.com/recastnavigation/recastnavigation) builds the navmesh.
 - [NavKit / NavWeakness](https://github.com/glacier-modding/NavKit) by the Glacier modding team reads and writes NavPower navmeshes.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE). It covers this repo's code and maps only, not the game or its files.
